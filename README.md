@@ -6,8 +6,7 @@ Subgraph to index Lido contracts.
 
 ### The Graph Network
 
-Explorer page with playground:
-[https://thegraph.com/explorer/subgraph?id=HXfMc1jPHfFQoccWd7VMv66km75FoxVHDMvsJj5vG5vf]
+Explorer page with playground: https://thegraph.com/explorer/subgraphs/fdeuzYk95szmAu7ZsNj6vXYrwNfGSudaVyXz8GkEMVY?view=Query&chain=arbitrum-one
 
 GraphQL API url (API key is needed):
 https://gateway.thegraph.com/api/[api-key]/subgraphs/id/HXfMc1jPHfFQoccWd7VMv66km75FoxVHDMvsJj5vG5vf
